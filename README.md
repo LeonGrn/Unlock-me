@@ -7,8 +7,8 @@
 - Change the humidity(%) between 90 and 75
 
 
-
-<img src="screenshot.jpeg" width="200px"</img> 
-
+<div>
+  <img src="screenshot.jpeg" width="200px"</img> 
+</div>
 
 
